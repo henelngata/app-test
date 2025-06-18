@@ -10,6 +10,12 @@
       "env": {
         "APP_VARIANT": "development"
       },
+      "android": {
+        "image": "latest"
+      },
+      "ios": {
+        "image": "latest"
+      },
       "channel": "development"
     },
     "ios-simulator": {
